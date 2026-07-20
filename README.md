@@ -65,10 +65,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![OpenCLIP](https://img.shields.io/badge/OpenCLIP-000000?style=flat-square)
-![Sentence_BERT](https://img.shields.io/badge/S--BERT-FF6F00?style=flat-square)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square)
 
 ---
 
@@ -92,7 +90,7 @@ Spring Boot Backend
         ▼
 Python AI Module
         ├─ OpenCLIP
-        ├─ S-BERT
+        ├─ FAISS
         └─ Similarity Search
 ```
 
